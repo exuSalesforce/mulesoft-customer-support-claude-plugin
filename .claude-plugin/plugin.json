@@ -1,0 +1,14 @@
+{
+  "name": "customer-support",
+  "displayName": "Customer Support",
+  "version": "1.0.0",
+  "description": "Skills for the Customer Support department — Customer 360 lookups and brand-voice rules.",
+  "author": {
+    "name": "ai-platform@acme.com"
+  },
+  "keywords": [
+    "mulesoft",
+    "agent-skills",
+    "skills-bundle"
+  ]
+}
