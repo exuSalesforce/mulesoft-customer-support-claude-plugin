@@ -1,0 +1,13 @@
+{
+  "name": "customer-support",
+  "owner": {
+    "name": "ai-platform@acme.com"
+  },
+  "plugins": [
+    {
+      "name": "customer-support",
+      "source": ".",
+      "description": "Skills for the Customer Support department — Customer 360 lookups and brand-voice rules."
+    }
+  ]
+}
